@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Honda_Prelude"
+
+generations:
+  - name: "Fifth Generation (BB5-BB9)"
+    start_year: 1997
+    end_year: 2001
+    description: "With the 2.2 L H22 VTEC engine."
+  - name: "Sixth Generation"
+    start_year: 2025
+    end_year: null
+    description: "A hybrid coupe with the Civic e:HEV's two-motor 2.0 L powertrain."
